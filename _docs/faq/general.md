@@ -7,7 +7,7 @@ redirect_from: /docs/faq/
 lang-ref: faqfaq
 ---
 
-### 我可以将天气数据用于商业产品吗？ {#commercial-use}
+### 我可以将天气数据用于商业产品吗？{#commercial-use}
 
 针对不同的服务和产品，我们许可不同的授权：
 
